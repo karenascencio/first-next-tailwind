@@ -1,0 +1,7 @@
+{
+    "devs": [
+        {"name": "Karen", "email": "karen@ola.com", "phone": "550055021"},
+        {"name": "Hector", "email": "Hector@ola.com", "phone": "550055022"},
+        {"name": "Freddy", "email": "freddy@ola.com", "phone": "550055023"}
+    ]
+}
